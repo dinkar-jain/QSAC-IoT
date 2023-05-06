@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "dilithium-crystals": "^1.0.4",
-    "indy-sdk": "^1.16.0-dev-1652"
+    "indy-sdk": "^1.16.0-dev-1655"
   }
 }

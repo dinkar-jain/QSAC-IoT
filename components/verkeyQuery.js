@@ -12,8 +12,8 @@
  * would be used and DIDs would be exchanged using some channel of communication
  */
 
-import * as indy from 'indy-sdk'
-const util = require('../util')
+import indy from 'indy-sdk'
+import * as util from '../util.js'
 
 const log = console.log
 
