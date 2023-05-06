@@ -1,0 +1,17 @@
+{
+  "name": "QSAC-IOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dilithium-crystals": "^1.0.4",
+    "indy-sdk": "^1.16.0-dev-1652"
+  }
+}
